@@ -10,8 +10,8 @@ interface Option {
 
 const options: Option[] = [
   {
-    code: 'zhejiang',
-    name: 'Zhejiang',
+    code: 'fujian',
+    name: 'fujian',
     items: [
       {
         code: 'hangzhou',
