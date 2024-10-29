@@ -27,7 +27,7 @@ const Demo = () => (
       defaultValue={DEFAULT_COLOR}
       allowClear
       showText
-      mode="gradient"
+      mode="single"
       onChangeComplete={(color) => {
         console.log(color.toCssString());
       }}
